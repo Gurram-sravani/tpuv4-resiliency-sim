@@ -1,0 +1,11 @@
+failure_rate,series,success
+0.0,Static,1
+0.0,Reconfigurable,1
+0.005,Static,0.9786
+0.005,Reconfigurable,1
+0.01,Static,0.9282
+0.01,Reconfigurable,1
+0.02,Static,0.7688
+0.02,Reconfigurable,1
+0.05,Static,0.3524
+0.05,Reconfigurable,1
