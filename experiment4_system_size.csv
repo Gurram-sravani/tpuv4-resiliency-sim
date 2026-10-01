@@ -1,0 +1,13 @@
+pod_size,series,success
+32,Static,0.7336
+32,Reconfigurable,0.7336
+48,Static,0.7236
+48,Reconfigurable,1
+64,Static,0.9256
+64,Reconfigurable,1
+80,Static,0.9282
+80,Reconfigurable,1
+96,Static,0.9808
+96,Reconfigurable,1
+128,Static,0.9946
+128,Reconfigurable,1
